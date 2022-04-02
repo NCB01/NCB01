@@ -1,7 +1,8 @@
-# Official website:  http://wdb.freevar.com/
-# Documentations: http://wdb.freevar.com/documentation.php
+# Official website & Documentations:
+http://wdb.freevar.com/ <br>
+http://wdb.freevar.com/documentation.php
 
-QUICK USE
+# QUICK USE
 1) Include one of the following files in your script:
    src/WDB.php or vendor/autoload.php
   
