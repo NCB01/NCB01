@@ -1,5 +1,5 @@
-Official website:  http://wdb.freevar.com/
-Documentations: http://wdb.freevar.com/documentation.php
+# Official website:  http://wdb.freevar.com/
+# Documentations: http://wdb.freevar.com/documentation.php
 
 QUICK USE
 1) Include one of the following files in your script:
